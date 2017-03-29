@@ -24,11 +24,7 @@
       }
     },
     "path": "file:///C:/Users/0218216/Desktop",
-    "screenshot": "screenshot.png",
-    "publishFtpPath": "public_html",
-    "publishType": "github",
-    "gitHubName": "valeriarobles2017",
-    "gitHubPath": ""
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -113,7 +109,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo%20rr%202-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-rr-2-128x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -1117,7 +1113,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo%20rr%202-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-rr-2-128x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -1513,7 +1509,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo%20rr%202-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-rr-2-128x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -1568,7 +1564,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/valeria-robles-1-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/valeria%20robles%201-2000x2000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/valeria-robles-1-2000x2000.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1578,7 +1574,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/valeria-robles-2-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/valeria%20robles%202-2000x2000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/valeria-robles-2-2000x2000.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1588,7 +1584,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/valeria-robles-3-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/valeria%20robles%203-2000x2000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/valeria-robles-3-2000x2000.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1598,7 +1594,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/valeria-robles-4-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/valeria%20robles%204-2000x2000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/valeria-robles-4-2000x2000.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1608,7 +1604,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/valeria-robles-5-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/valeria%20robles%205-2000x2000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/valeria-robles-5-2000x2000.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1618,7 +1614,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/valeria-robles-7-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/valeria%20robles%207-2000x2000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/valeria-robles-7-2000x2000.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1628,7 +1624,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/valeria-robles-8-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/valeria%20robles%208-2000x2000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/valeria-robles-8-2000x2000.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1638,7 +1634,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/valeria-robles-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/valeria%20robles-2000x2000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/valeria-robles-2000x2000.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
